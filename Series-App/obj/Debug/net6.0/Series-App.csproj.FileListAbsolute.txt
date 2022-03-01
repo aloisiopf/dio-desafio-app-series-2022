@@ -1,0 +1,5 @@
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-app-series-2022/Series-App/obj/Debug/net6.0/Series-App.csproj.AssemblyReference.cache
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-app-series-2022/Series-App/obj/Debug/net6.0/Series-App.GeneratedMSBuildEditorConfig.editorconfig
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-app-series-2022/Series-App/obj/Debug/net6.0/Series-App.AssemblyInfoInputs.cache
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-app-series-2022/Series-App/obj/Debug/net6.0/Series-App.AssemblyInfo.cs
+/media/sf_Projetos/CSharp/dio-bootcamp-localiza-2022/dio-desafio-app-series-2022/Series-App/obj/Debug/net6.0/Series-App.csproj.CoreCompileInputs.cache
